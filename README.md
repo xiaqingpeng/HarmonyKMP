@@ -1,4 +1,4 @@
-# CMP My Compose
+# Kotlin+Compose Multiplatform
 
 ## 核心框架
 
