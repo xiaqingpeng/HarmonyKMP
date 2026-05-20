@@ -1,0 +1,9 @@
+package com.example.cmp_hello
+
+import android.os.Build
+
+class AndroidPlatform : Platform {
+    override val name: String = "Android ${Build.VERSION.SDK_INT}"
+}
+
+internal actual fun getPlatform(): Platform = AndroidPlatform()

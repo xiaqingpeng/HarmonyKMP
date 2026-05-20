@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "helloworld"
+    },
+    {
+      "name": "vibrate_permission_reason",
+      "value": "用于触控反馈功能"
+    },
+    {
+      "name": "permission_read_media",
+      "value": "用于选择相册图片"
+    }
+  ]
+}
