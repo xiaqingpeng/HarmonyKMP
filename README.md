@@ -1,4 +1,4 @@
-# Kotlin+Compose Multiplatform
+# Kotlin Multiplatform（KMP）和 Compose Multiplatform 构建，支持 Android、iOS、HarmonyOS 三端
 
 ## 核心框架
 
